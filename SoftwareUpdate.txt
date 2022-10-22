@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add visuals in guides/distance-calculation.md (#7876)
