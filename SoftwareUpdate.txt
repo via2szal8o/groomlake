@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix cmake requirements for ARM64 (#8589)
