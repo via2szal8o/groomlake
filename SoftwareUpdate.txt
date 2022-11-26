@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
