@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Explorer with LanceDB, Actions and Docs updates (#7487)
