@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
