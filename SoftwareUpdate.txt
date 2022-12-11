@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
