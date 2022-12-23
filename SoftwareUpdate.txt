@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Move Explorer tests to scheduled CI (#8305)
