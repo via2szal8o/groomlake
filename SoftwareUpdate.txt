@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fixed RTDETR GFLOPs bug (#7309)
