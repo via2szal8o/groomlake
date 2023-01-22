@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Replace onnx2tf usage from CLI to Python (#8429)
