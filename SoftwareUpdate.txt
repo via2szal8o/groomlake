@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
