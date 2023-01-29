@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
