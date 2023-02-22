@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
