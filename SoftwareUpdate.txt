@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Feature: Create HUB Models from CLI or Python Script (#7316)
