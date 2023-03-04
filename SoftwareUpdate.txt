@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+More robust PNNX downloads (#8866)
