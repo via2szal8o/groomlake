@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
