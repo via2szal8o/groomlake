@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
