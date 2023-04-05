@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Rename model_id to model.id (#8447)
