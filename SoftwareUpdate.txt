@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Mkdocs annotations fixes (#7600)
