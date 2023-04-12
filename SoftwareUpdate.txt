@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+YOLOv8 INT8 TFLite Inference Example (#7317)
