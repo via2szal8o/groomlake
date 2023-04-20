@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Capitalize OBB acronym (#7383)
