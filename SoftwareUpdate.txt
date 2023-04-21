@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Update Docs Home and Neural Magic pages (#7243)
