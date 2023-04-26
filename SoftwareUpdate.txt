@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add dota8.yaml and O tests (#7394)
