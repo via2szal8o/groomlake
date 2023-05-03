@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add settings runs_dir == datasets_dir warning (#8653)
