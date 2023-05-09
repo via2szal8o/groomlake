@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update Colab notebook for YOLOv8.1 (#8660)
