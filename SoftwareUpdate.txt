@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
