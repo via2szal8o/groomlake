@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fixed RTDETR GFLOPs bug (#7309)
