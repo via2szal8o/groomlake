@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix PNNX ubuntu -> linux bug (#7050)
