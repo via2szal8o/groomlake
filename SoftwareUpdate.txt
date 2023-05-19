@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
