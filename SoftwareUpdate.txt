@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix IS_PYTHON_3_12 bug (#9258)
