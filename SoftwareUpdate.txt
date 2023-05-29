@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
