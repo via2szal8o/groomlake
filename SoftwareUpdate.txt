@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
