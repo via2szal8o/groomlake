@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix bbox2segment converter (#7814)
