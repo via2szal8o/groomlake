@@ -1,1 +1,1 @@
-fix predict with class filter
+Add PR Summary step to Ultralytics Actions (#7675)
