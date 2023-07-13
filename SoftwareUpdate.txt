@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
