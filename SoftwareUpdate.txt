@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
