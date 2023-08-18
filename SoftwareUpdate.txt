@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update Colab notebook for YOLOv8.1 (#8660)
