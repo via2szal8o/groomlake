@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update fraction arg to employ a random selection (#8234)
