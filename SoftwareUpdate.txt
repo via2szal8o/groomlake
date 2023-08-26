@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
