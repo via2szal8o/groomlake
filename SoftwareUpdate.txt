@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Replacing Images for torchscript.md (#8596)
