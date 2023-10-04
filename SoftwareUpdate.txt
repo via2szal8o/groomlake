@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Capitalize OBB acronym (#7383)
