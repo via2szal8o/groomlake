@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add horizontal Mosaic3 augmentation (#6898)
