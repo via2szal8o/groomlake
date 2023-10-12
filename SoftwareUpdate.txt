@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
