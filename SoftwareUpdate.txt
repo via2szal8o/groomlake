@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
