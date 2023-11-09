@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
