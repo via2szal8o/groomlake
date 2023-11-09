@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update CITATION.cff with cffinit corrections (#8658)
