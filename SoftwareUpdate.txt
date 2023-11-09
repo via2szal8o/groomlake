@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Bounding Box to OBB conversion (#7572)
