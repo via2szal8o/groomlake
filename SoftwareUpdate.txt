@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Allow Annotator PIL.Image inputs (#8397)
