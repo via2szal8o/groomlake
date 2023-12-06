@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
