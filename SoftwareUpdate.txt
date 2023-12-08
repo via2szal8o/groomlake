@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
