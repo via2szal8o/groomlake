@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Fix heatmaps width-height order bug (#7184)
