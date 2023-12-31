@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
