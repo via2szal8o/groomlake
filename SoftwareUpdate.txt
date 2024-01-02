@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Mkdocs annotations fixes (#7600)
