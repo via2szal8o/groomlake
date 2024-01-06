@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
