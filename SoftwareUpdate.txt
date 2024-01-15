@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+fix yolo classify model loading error (#9196)
