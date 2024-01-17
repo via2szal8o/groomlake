@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Remove JAX constraints in Exporter (#8309)
