@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Compress docs images (#8124)
