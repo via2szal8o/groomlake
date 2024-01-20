@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Feature: Create HUB Models from CLI or Python Script (#7316)
