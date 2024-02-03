@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add horizontal Mosaic3 augmentation (#6898)
