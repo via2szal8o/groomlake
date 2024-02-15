@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
