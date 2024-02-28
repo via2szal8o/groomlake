@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
