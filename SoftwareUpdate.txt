@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
