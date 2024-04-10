@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
