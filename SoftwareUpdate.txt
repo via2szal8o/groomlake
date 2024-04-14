@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
