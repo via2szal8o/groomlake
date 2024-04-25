@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
