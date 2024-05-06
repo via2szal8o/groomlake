@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+OBB Docs updates (#7512)
