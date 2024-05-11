@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add horizontal Mosaic3 augmentation (#6898)
