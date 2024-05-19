@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
