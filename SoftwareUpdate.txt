@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Fix PNNX ubuntu -> linux bug (#7050)
