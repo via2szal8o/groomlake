@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+OBB: update metrics (#7593)
