@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
