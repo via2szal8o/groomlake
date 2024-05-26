@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add C++ Classify inference example (#6868)
