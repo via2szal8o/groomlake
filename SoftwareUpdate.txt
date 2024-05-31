@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Replace onnx2tf usage from CLI to Python (#8429)
