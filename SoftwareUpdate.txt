@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+OpenVino 2024.0.0 (#8726)
